@@ -1,0 +1,57 @@
+.text-l {
+    text-align: left;
+}
+
+.text-r {
+    text-align: right;
+}
+
+.text-c {
+    text-align: center;
+}
+
+.dis_flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.dis_flex_a {
+    display: flex;
+    align-items: center;
+}
+
+.clearfloat:after {
+    display: block;
+    clear: both;
+    content: "";
+    visibility: hidden;
+    height: 0
+}
+
+.clearfloat {
+    zoom: 1
+}
+
+.van-tabbar-item {
+    font-size: 0.45rem;
+}
+.van-tabbar-item__icon{
+    font-size: 0.5rem;
+}
+
+.van-nav-bar {
+    background: linear-gradient(to right, #0770e0, #087ded);
+}
+
+.van-nav-bar__text {
+    color: #fff !important;
+}
+
+.van-nav-bar__title {
+    color: #fff !important;
+}
+
+.van-notify {
+    line-height: 28px !important;
+}

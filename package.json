@@ -33,7 +33,7 @@
     "@vue/cli-plugin-babel": "^4.0.0",
     "@vue/cli-plugin-router": "^4.0.0",
     "@vue/cli-plugin-vuex": "^4.0.0",
-    "@vue/cli-service": "^4.0.0",
+    "@vue/cli-service": "^5.0.8",
     "css-loader": "^3.4.2",
     "postcss-pxtorem": "^5.1.1",
     "style-loader": "^1.1.3",
